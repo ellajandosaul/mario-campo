@@ -1,0 +1,3 @@
+"Front Sound"	1.074580	2.965830	"First beep/whistle  "
+"Front Sound"	3.299960	33.777800	"Second beep/whistle"
+"Back Sound"	1.096040	33.777800	"Cymbal-like beat"

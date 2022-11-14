@@ -23,6 +23,24 @@
         "id": "https://ellajandosaul.github.io/mario-campo/u-1-1/canvas-1/canvas",
         "type": "Canvas",
         "duration": 976.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://ellajandosaul.github.io/mario-campo/annotations/u-1-1-canvas-1--front-sound-.json",
+            "label": {
+              "none": ["\"Front Sound\""]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://ellajandosaul.github.io/mario-campo/annotations/u-1-1-canvas-1--back-sound-.json",
+            "label": {
+              "none": ["\"Back Sound\""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://ellajandosaul.github.io/mario-campo/u-1-1/canvas-1/paintings",

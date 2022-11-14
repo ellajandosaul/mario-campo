@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ellajandosaul.github.io/mario-campo/annotations/u-1-1-canvas-1--back-sound-.json",
+  "type": "AnnotationPage",
+  "label": "\"Back Sound\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "u-1-1-canvas-1--back-sound--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Cymbal-like beat\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ellajandosaul.github.io/mario-campo/u-1-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.096040,33.777800"
+        }
+      }
+    }
+  ]
+}

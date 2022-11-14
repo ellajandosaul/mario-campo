@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ellajandosaul.github.io/mario-campo/annotations/u-1-1-canvas-1--front-sound-.json",
+  "type": "AnnotationPage",
+  "label": "\"Front Sound\"",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "u-1-1-canvas-1--front-sound--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"First beep/whistle  \"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ellajandosaul.github.io/mario-campo/u-1-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1.074580,2.965830"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "u-1-1-canvas-1--front-sound--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Second beep/whistle\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://ellajandosaul.github.io/mario-campo/u-1-1/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3.299960,33.777800"
+        }
+      }
+    }
+  ]
+}
